@@ -1,0 +1,2 @@
+Digits: 0, Letters: 156
+5

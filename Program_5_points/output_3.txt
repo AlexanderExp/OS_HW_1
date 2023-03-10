@@ -1,0 +1,1 @@
+Digits: 30, Letters: 99
