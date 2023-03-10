@@ -1,0 +1,1 @@
+Digits: 23, Letters: 2173
